@@ -17,6 +17,10 @@ class PumpsMarkViewController: UIViewController {
         
     }
     
+    func Hello() {
+        
+    }
+    
     var agregates: [AgregateModel] = []
     var markOfPumpImage: UIImage?
     var pumpsModel: PumpsModel?
