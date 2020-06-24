@@ -24,6 +24,10 @@ class MainViewController: UIViewController {
         title = "My Screed"
     }
     
+    func printName() {
+        print("Hello")
+    }
+    
     private func configureTableView() {
         tableView.register(UINib(nibName: String(describing: TableViewCell.self), bundle: nil), forCellReuseIdentifier: String(describing: TableViewCell.self))
     }
