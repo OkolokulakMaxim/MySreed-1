@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6F931742-5415-4B09-A2C6-18F390636642"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E90A17E2-879F-4E60-9C13-7BEB0D7A531E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E90A17E2-879F-4E60-9C13-7BEB0D7A531E - e67996fdd982d127"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MyScreed.TableViewCell"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "E90A17E2-879F-4E60-9C13-7BEB0D7A531E - 622bd81c428f95b9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyScreed.TableViewCell&gt;"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5 - bf6f83787320abc8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.pumpImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5 - e0650d9bcce077c4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.pumpImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5 - f5569f4567f46c37"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.pumpImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5 - b084ce2ab3ea9c5a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.pumpImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5 - e67996fdd982d127"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MyScreed.TableViewCell"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "2AF7CBF4-5841-4FF2-A886-4AFB9BD4E2B5 - 622bd81c428f95b9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyScreed.TableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyScreed.TableViewCell&gt;"
+                  moduleName = "MyScreed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexmajko/Documents/Development/MyScreed/MyScreed/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F140BE3-C481-421F-BD01-2C058A1278B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/ThirdVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "420B9E8B-F29A-48BC-915C-3C556470594E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/TableViewCell3.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "configureCell3(agregate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDB48836-9151-4655-8A54-F147B5F0B4BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/FourthVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6E8F41-D412-44DE-B0B7-5D6298BD9072"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "configureCell(pumpsModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A2A0FF0-B999-40B8-9076-3392EB92762C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyScreed/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
